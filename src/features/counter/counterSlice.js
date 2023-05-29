@@ -1,5 +1,5 @@
 // slice の定義
-// ・Store は Sliceで構築される。
+// ・Store は 複数の Slice で構築される。
 // ・各Slice は Reducer, Action Creator, State を持つ。
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 
