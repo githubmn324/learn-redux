@@ -2,9 +2,10 @@
 import { configureStore } from "@reduxjs/toolkit";
 import { incrementByAmount } from "../features/counter/counterSlice";
 
-// action
-// type filed: reuired
-// other fields: optional
+/**
+ * Action: create and returns action object
+ * 通常「type」「payload」プロパティを持つ 
+ */
 const addToDoAction = {
     type: 'todos/todoAdded',
     payload: "Buy milk"
