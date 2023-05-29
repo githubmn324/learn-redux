@@ -1,22 +1,22 @@
 export const PostsData = [
     {
       id: 1,
-      name: "ShinCode",
-      content: "Redux勉強なう",
+      name: "田中",
+      content: "Redux入門",
     },
     {
       id: 2,
-      name: "名無しさん",
-      content: "ShinCodeさん分かりやすい",
+      name: "佐藤",
+      content: "TailWind CSSモック作成",
     },
     {
       id: 3,
-      name: "駆け出しエンジニア",
-      content: "Udemy受講してみようかな",
+      name: "青木",
+      content: "Material UI調査",
     },
     {
       id: 4,
-      name: "スタックオーバーフローさん",
-      content: "エンジニアのスタバ",
+      name: "多田",
+      content: "Storybook調査",
     },
   ];
