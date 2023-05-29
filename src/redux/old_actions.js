@@ -1,3 +1,4 @@
+// Redux公式ページの記載内容を書き起こす。メモ用ページ
 import { configureStore } from "@reduxjs/toolkit";
 import { incrementByAmount } from "../features/counter/counterSlice";
 
